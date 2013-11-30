@@ -1,0 +1,14 @@
+{
+  "name": "blur",
+  "repo": "henrik-muehe/blur",
+  "description": "A javascript file to blur images onto a canvas or a canvas itself.",
+  "version": "0.0.1",
+  "keywords": [],
+  "dependencies": {},
+  "development": {},
+  "license": "MIT",
+  "main": "StackBlur.js",
+  "scripts": [
+    "StackBlur.js"
+  ]
+}

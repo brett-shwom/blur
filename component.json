@@ -1,5 +1,5 @@
 {
-  "name": "blur",
+  "name": "stackblur",
   "repo": "henrik-muehe/blur",
   "description": "A javascript file to blur images onto a canvas or a canvas itself.",
   "version": "0.0.1",

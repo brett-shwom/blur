@@ -626,3 +626,9 @@ function BlurStack()
 	this.a = 0;
 	this.next = null;
 }
+
+module.exports = {
+	stackBlurImage      : stackBlurImage,
+	stackBlurCanvasRGB  : stackBlurCanvasRGB,
+	stackBlurCanvasRGBA : stackBlurCanvasRGBA
+}
